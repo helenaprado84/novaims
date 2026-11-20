@@ -28,7 +28,10 @@ publicado automaticamente**: a publicação continua sendo decisão humana.
 
 ## Antes do primeiro uso
 
-1. **Preencha `social/marca-pine.md`.** Os agentes não inventam nada sobre a
+1. **Preencha o guia de marca.** Copie o modelo `social/marca-pine.md` para
+   `social/privado/marca-pine.md` e preencha a cópia. A pasta `privado/` fica
+   fora do git porque este repositório é público. Guarde a cópia também no
+   Drive da Pine, porque a sessão na nuvem é temporária. Os agentes não inventam nada sobre a
    Pine: onde houver `[PREENCHER]`, eles param e perguntam. Os campos mais
    importantes: pilares, tom de voz com 2–3 posts reais de exemplo, quem aprova
    e quais clientes podem ser citados.

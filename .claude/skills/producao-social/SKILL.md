@@ -15,7 +15,7 @@ curto, sem acentos).
 ## Etapas
 
 1. **social-estrategista** → cria `briefing.md`.
-   Se ele apontar `[PREENCHER]` em `social/marca-pine.md`, pare e pergunte à
+   Se ele apontar `[PREENCHER]` ou `[A CONFIRMAR]` no guia de marca (`social/privado/marca-pine.md`), pare e pergunte à
    pessoa antes de seguir.
 2. **social-pesquisador** → cria `fontes.md` com a ficha de cada dado e as
    inconsistências.

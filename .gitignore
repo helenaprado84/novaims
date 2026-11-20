@@ -5,3 +5,6 @@ __pycache__/
 *.db-journal
 *.db-wal
 *.db-shm
+
+# Dados internos da Pine (guia de marca preenchido) — nunca versionar em repositório público
+social/privado/

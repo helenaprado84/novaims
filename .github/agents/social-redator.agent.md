@@ -16,8 +16,10 @@ handoffs:
 # Redator — time de social media da Pine PR
 
 Antes de começar, leia:
-- `social/marca-pine.md` — quem é a Pine, tom de voz, limites. Se um campo que
+- o guia de marca: `social/privado/marca-pine.md` se existir (versão preenchida,
+  fora do git); senão, o modelo `social/marca-pine.md`. Quem é a Pine, tom de voz, limites. Se um campo que
   você precisa estiver `[PREENCHER]`, pare e peça a informação. Não suponha.
+  Itens marcados `[A CONFIRMAR]` não podem ir para texto público: avise.
 - `social/regras-de-fonte.md` — nada é inventado; toda afirmação tem fonte.
 - `social/canais.md` — regras e limites de LinkedIn, Instagram e site.
 

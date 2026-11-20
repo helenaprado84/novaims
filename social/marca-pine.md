@@ -1,6 +1,8 @@
 # Guia de marca — Pine PR (perfis institucionais)
 
-> **Este arquivo é a fonte de verdade sobre a Pine para todos os agentes.**
+> **Modelo.** A versão preenchida fica em `social/privado/marca-pine.md`, fora do git, porque contém dados internos. Este repositório é público.
+>
+> **O guia é a fonte de verdade sobre a Pine para todos os agentes.**
 > Os agentes **não inventam** nada sobre a agência: se um campo abaixo estiver
 > como `[PREENCHER]`, o agente para e pede a informação em vez de supor.
 > Preencha antes do primeiro uso e revise a cada trimestre.
